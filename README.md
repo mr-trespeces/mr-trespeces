@@ -6,5 +6,5 @@
   </br>
   <h1>Mark Trespeces</h1>
   <h6>Connect with:</h6>
-  <a href="https://www.linkedin.com/in/marktrespeces/"><img alt="linkedIn" src="https://golflifenavigators.com/wp-content/uploads/2018/09/linkedin-logo.png" height="40" width="150"></a>
+  <a href="https://www.linkedin.com/in/mark-trespeces/"><img alt="linkedIn" src="https://golflifenavigators.com/wp-content/uploads/2018/09/linkedin-logo.png" height="40" width="150"></a>
 </div>
